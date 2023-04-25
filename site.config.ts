@@ -11,15 +11,15 @@ export default siteConfig({
   // basic site info (required)
   name: '2.2.guide',
   domain: '2.2.guide.dev',
-  author: 'Travis Fischer',
+  author: 'Rishee',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  // twitter: 'transitive_bs',
+  github: 'Risheegit',
+  linkedin: 'hrishikesh-rb',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
